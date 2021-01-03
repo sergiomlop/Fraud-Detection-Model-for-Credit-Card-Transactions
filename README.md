@@ -8,7 +8,7 @@ The project structure is based on CRISP-DM methodology using its phases as the g
 
 Our final project it's about [IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection) competition in Kaggle where Vesta Corporation provided the dataset for this competition.__The nature of the project is a Kaggle competition so all the notebooks are Kaggle based.__ We highly recommend to look through the notebooks on Kaggle however we are uploading it in two more formats: Jupyter Notebook and Python script.
 
-##### Kaggle Notebooks
+#### Kaggle Notebooks
 
 [0. FRAUD_DETECTION: Memory Reduction - script](https://www.kaggle.com/sergiomananas/memory-reduction-script)  
 [1. FRAUD_DETECTION: Memory Reduction](https://www.kaggle.com/juanjohernandez/1-fraud-detection-memory-reduction)  
@@ -22,7 +22,7 @@ Our final project it's about [IEEE-CIS Fraud Detection](https://www.kaggle.com/c
 ## Data
 
 Due to the repository size limits, we can't upload full dataset on GitHub. 
-Instead you can found all the data used on `Input` and `Output` section of each notebook.
+Instead you can found all the data used on `Input` and `Output` section of each Kaggle notebook.
 
 ## Docs
 
